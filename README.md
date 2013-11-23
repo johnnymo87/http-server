@@ -1,4 +1,6 @@
 node_test
 =========
 
-first pass at node.js
+used https://github.com/manuelkiessling/NodeBeginnerBook/blob/master/index-en.html
+
+project status as of the end of the book.
