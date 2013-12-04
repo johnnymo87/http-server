@@ -16,7 +16,7 @@ function start(response) {
         '<input type="file" name="upload" multiple="multiple">'+
         '<input type="submit" value="Upload file" />'+
         '</form>'+
-            '</body>'+
+        '</body>'+
         '</html>';
 
     response.writeHead(200, {"Content-Type": "text/html"});
